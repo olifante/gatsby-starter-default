@@ -326,7 +326,7 @@ export default () => (
                 />
             </NavItem>
         </Toolbar>
-        <Container mb={1} p={1} backgroundColor='rgba(127, 127, 127, 0.5)'>
+        <Container mb={1} p={1} backgroundColor='#CDE6ED'>
             <Heading
                 my={1}
                 level={1}
@@ -347,7 +347,7 @@ export default () => (
             backgroundImage='/static/students/206b5b_fe97cae6fcaf4f44a596c33b9ac07758~mv2_d_4288_2848_s_4_2.jpg'
         >
         </Banner>
-        <Container mt={1} p={1} backgroundColor='rgba(127, 127, 127, 0.5)'>
+        <Container mt={1} p={1} backgroundColor='#CDE6ED'>
             <Heading
                 level={1}
                 children='HOW CAN I APPLY?'
