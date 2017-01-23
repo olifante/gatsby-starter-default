@@ -21,48 +21,37 @@ const partners = [
     {
         filepath: '/static/partners/cnn-206b5b_f9eb2f6b61e14af381fd40d97c0a6d61~mv2.png',
         name: 'CNN'
-    },
-    {
+    }, {
         filepath: '/static/partners/handelsblatt-206b5b_baa1962353b54babb53ff0d431f8ae9c~mv2.png',
         name: 'Handelsblatt'
-    },
-    {
+    }, {
         filepath: '/static/partners/forbes-206b5b_85be8c14daff4dbc9b53e51c929aa312~mv2.png',
         name: 'Forbes'
-    },
-    {
+    }, {
         filepath: '/static/partners/the-guardian-206b5b_a1bff4122a704edba4305e4ca73e915c~mv2.jpg',
         name: 'The Guardian'
-    },
-    {
+    }, {
         filepath: '/static/partners/die-zeit-206b5b_3a6744be26374afe98174d41937dc6d6~mv2.png',
         name: 'Die Zeit'
-    },
-    {
+    }, {
         filepath: '/static/partners/bloomberg-206b5b_5079153fccce407985051f88d56495ef~mv2.jpg',
         name: 'Bloomberg'
-    },
-    {
+    }, {
         filepath: '/static/partners/washington-post-206b5b_6d848b48c8844bd597fb8345f46aa906~mv2.jpg',
         name: 'Washington Post'
-    },
-    {
+    }, {
         filepath: '/static/partners/welt-n24-206b5b_7ee4cf0f2ead4fa8a7b804dbf7f202c7~mv2.png',
         name: 'Die Welt'
-    },
-    {
+    }, {
         filepath: '/static/partners/ajplus-206b5b_76f5324b0a1d4481bf0dbdd5e7254c26~mv2.png',
         name: 'AJ+'
-    },
-    {
+    }, {
         filepath: '/static/partners/tedx-innovations-206b5b_009aec41271c410bb79c07c2820c2f70~mv2.jpg',
         name: 'TEDx ,Innovations'
-    },
-    {
+    }, {
         filepath: '/static/partners/co-exist-206b5b_981ef7b40f764642ad396d71646e0df8~mv2.png',
         name: 'Co-exist'
-    },
-    {
+    }, {
         filepath: '/static/partners/deutsche-welle-206b5b_05500378376d46f0bb3342c0b0a12ad8~mv2.jpg',
         name: 'Deutsche Welle'
     },
