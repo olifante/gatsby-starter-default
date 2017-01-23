@@ -30,7 +30,6 @@ const students = [
             "Ruby on Rails"
         ],
         "quote": "I will not despair because god is always with me."
-
     },
     {
         "picture": "206b5b_b984524801cf4542b9afe6022d7efacc-mv2_d_4416_2947_s_4_2.jpg",
@@ -42,7 +41,6 @@ const students = [
             "HTML", "CSS", "Ruby on Rails"
         ],
         "quote": "There is always a light at the end of the tunnel."
-
     },
     {
         "picture": "206b5b_0d734257de1a4f56bd4bbc1edf2d8ed5-mv2_d_4416_2947_s_4_2.jpg",
@@ -53,7 +51,6 @@ const students = [
         "programming languages": [
             "PHP", "SQL", "Java"
         ]
-
     },
     {
         "picture": "206b5b_103fd3666b7a4c3784661a4660b50e78-mv2_d_4968_3725_s_4_2.jpg",
@@ -65,7 +62,6 @@ const students = [
             "HTML", "CSS", "Ruby on Rails"
         ],
         "quote": "Only fools and dead people do not change their minds."
-
     },
     {
         "picture": "206b5b_e21b746f08f341e597be824a0ca348a1-mv2_d_4416_2947_s_4_2.jpg",
@@ -76,10 +72,7 @@ const students = [
         "programming languages": [
             "Ruby on Rails", "C++", "HTML"
         ],
-
-
         "quote": "A wise man once said nothing."
-
     },
     {
         "picture": "206b5b_ac7d6073385f4ef0b1bda78ec88025cb-mv2_d_4416_2947_s_4_2.jpg",
@@ -91,7 +84,6 @@ const students = [
             "Ruby on Rails", "HTML", "CSS"
         ],
         "quote": "No pain, no gain."
-
     },
     {
         "picture": "206b5b_c2771e75b47a40dd912d81620372cd45-mv2_d_4416_2947_s_4_2.jpg",
@@ -102,11 +94,7 @@ const students = [
         "programming languages": [
             "Ruby on Rails"
         ],
-
-
         "quote": "Every one should know how to program a computer, because it teaches you how to think. (Steve Jobs)"
-
-
     },
     {
         "picture": "206b5b_7ec596f87bf24b0386ded7792081ca99-mv2_d_4416_2947_s_4_2.jpg",
@@ -118,7 +106,6 @@ const students = [
             "HTML", "CSS", "Less", "Bootstrap", "JavaScript", "Ruby on Rails"
         ],
         "quote": "You don't learn to walk by following rules.You learn by doing, and by falling over."
-
     },
     {
         "picture": "206b5b_626db207fee749039a5ecb81a277ac1d-mv2_d_4416_2947_s_4_2.jpg",
@@ -130,7 +117,6 @@ const students = [
             "HTML", "CSS", "Ruby on Rails"
         ],
         "quote": "I won't give in, no I won't back down. It's my choice to try to swim or to drown."
-
     },
     {
         "picture": "206b5b_8ec77312c1c04bcb9652dc65b78e9ed2-mv2_d_4416_2947_s_4_2.jpg",
@@ -141,7 +127,6 @@ const students = [
         "programming languages": [
             "Ruby on Rails"
         ]
-
     },
     {
         "picture": "206b5b_4a4de1310e60428d92c77a8faffd978d-mv2_d_4416_2947_s_4_2.jpg",
@@ -152,11 +137,7 @@ const students = [
         "programming languages": [
             "HTML", "CSS", "Ruby On Rails"
         ],
-
-
         "quote": "When you can’t change the direction of the wind — adjust your sails. (H.Jackson Brown Jr.)"
-
-
     },
     {
         "picture": "206b5b_0a7227d6afce432081345e2a0931fcc0-mv2_d_4416_2947_s_4_2.jpg",
@@ -168,7 +149,6 @@ const students = [
             "C++", "Java", "HTML", "Ruby on Rails", "CSS"
         ],
         "quote": "Humanity knows no borders."
-
     },
     {
         "picture": "206b5b_a2ecaaabd4094817b38545731964570f-mv2_d_4416_2947_s_4_2.jpg",
@@ -179,7 +159,6 @@ const students = [
         "programming languages": [
             "Ruby on Rails"
         ]
-
     },
     {
         "picture": "206b5b_407d70d657d64ee3a7ce89471bd0193a-mv2_d_4416_2947_s_4_2.jpg",
@@ -191,8 +170,6 @@ const students = [
             "Ruby on Rails"
         ],
         "quote": "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it."
-
-
     },
     {
         "picture": "206b5b_fa15ba6047a7495f89992df9bd434449-mv2_d_4416_2947_s_4_2.jpg",
@@ -204,7 +181,6 @@ const students = [
             "Javascript", "Ruby on Rails", "C++", "Java", "HTML", "CSS"
         ],
         "quote": "If you’re going to be thinking, you may as well think big."
-
     },
     {
         "picture": "206b5b_33592c1e71f94b96a2cfb4ab80f6e4e5-mv2_d_4416_2947_s_4_2.jpg",
@@ -214,10 +190,8 @@ const students = [
         ],
         "programming languages": [
             "Java", "C++", "JavaScript", "HTML", "CSS"
-
         ],
         "quote": "To arrive late is better than not to arrive at all."
-
     },
     {
         "picture": "206b5b_f6ea4a8b0cfa45e3ba19ce89eb116c80-mv2_d_4416_2947_s_4_2.jpg",
@@ -228,7 +202,6 @@ const students = [
         "programming languages": [
             "Ruby on Rails", "Javascript", "CSS", "HTML"
         ]
-
     },
     {
         "picture": "206b5b_a46678f2f45245f994c1799156d0f4e4-mv2_d_4416_2947_s_4_2.jpg",
@@ -240,7 +213,6 @@ const students = [
             "HTML"
         ],
         "quote": "Everything is okay in the end, if it's not ok, then it's not the end."
-
     },
     {
         "picture": "206b5b_a9385bc2c5cb48da9a56fbfb9a7a5265-mv2_d_4343_2897_s_4_2.jpg",
@@ -252,7 +224,6 @@ const students = [
             "Ruby on Rails", "HTML"
         ],
         "quote": "Fight for my goal and do not give in or feel despair."
-
     },
     {
         "picture": "206b5b_0c84b98931324c4f9508bbc961a7b552-mv2_d_4416_2947_s_4_2.jpg",
@@ -263,32 +234,26 @@ const students = [
         "programming languages": [
             "Ruby on Rails", "HTML", "CSS"
         ]
-
     },
     {
         "picture": "206b5b_2622bc8ecc7444a08464acf7b82864ab-mv2_d_4416_2947_s_4_2.jpg",
         "name": "Akram Alfawakheeri"
-
     },
     {
         "picture": "206b5b_f462280c23754412858057815560a5c1-mv2_d_4416_2947_s_4_2.jpg",
         "name": "Ahmed Nadeem Jenbaz"
-
     },
     {
         "picture": "206b5b_3037899e1c9f4a818873f7ccda5ed098-mv2_d_4416_2947_s_4_2.jpg",
         "name": "Ibrahim Algabarte"
-
     },
     {
         "picture": "206b5b_be9f3016c0c04301abbc557749263ece-mv2_d_4416_2947_s_4_2.jpg",
         "name": "Wissam Ghozlan"
-
     },
     {
         "picture": "206b5b_1c78fb3f4dcd4b1d9ad469b5e1dbc32c-mv2_d_4416_2947_s_4_2.jpg",
         "name": "Khaled Alaswad"
-
     }
 ]
 
@@ -357,7 +322,6 @@ export default () => (
                 wrap
                 align='center'
             >
-
                 <Box m={3}>
                     <Box align='center'>
                         <img src='/static/students/icons/206b5b_0cf9256972894e1ab890b0c908eb6157~mv2.png' />
