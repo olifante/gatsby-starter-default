@@ -107,7 +107,12 @@ export default () => (
                     />
                
             </Container>
-        
+          <Banner
+            backgroundImage='/static/banners/206b5b_681e6b87fe394df28148acd6e86ec8c8~mv2_d_7360_4912_s_4_2.jpg'
+            >
+
+               
+        </Banner>
    
         <Footer m={2} >
             <NavItem
