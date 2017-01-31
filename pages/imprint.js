@@ -91,7 +91,23 @@ export default () => (
                     />
             </NavItem>
         </Toolbar>
-       
+       <Container m={1} backgroundColor='#CDE6ED'>
+                <Heading
+                    level={1}
+                    big={true}
+                    children='Contact & Imprint'
+                    />
+                <Text
+                    size={3}
+                    children='We are looking forward to hearing from you.'
+                    />
+                <ButtonOutline
+                    children='CONTACT US'
+                    color="black"
+                    />
+               
+            </Container>
+        
    
         <Footer m={2} >
             <NavItem
